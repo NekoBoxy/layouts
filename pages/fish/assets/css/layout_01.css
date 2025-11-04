@@ -48,4 +48,5 @@
 .banner-txt p {
   font-size: 30px;
   font-weight: 300;
+  max-width: 40%;
 }
